@@ -10,4 +10,4 @@ source code about two device of 3dm gx3 is here <br>
 github : https://github.com/MareArts/Two-3DM-GX3-data-acquisition<br>
 reference contents : http://study.marearts.com/2015/02/two-3dm-gx3-data-acquisition.html <br>
 
-https://4.bp.blogspot.com/-jKjJjlY8KkE/UO6_j3ew85I/AAAAAAAADyk/ruYGbkcoexg/s320/3DM-GX3.JPG
+<img src=https://4.bp.blogspot.com/-jKjJjlY8KkE/UO6_j3ew85I/AAAAAAAADyk/ruYGbkcoexg/s320/3DM-GX3.JPG>
